@@ -8,7 +8,7 @@
                 "nombre": "Melisa",
                 "telefono": "(264)4777222",
                 "altura": "157",
-                "peso": "67"
+                "peso": "47"
             }
         },
         {
@@ -27,8 +27,8 @@
                 "apellido": "P\u00e9rez",
                 "nombre": "Maira",
                 "telefono": "(264)5111222",
-                "altura": "157",
-                "peso": "67"
+                "altura": "158",
+                "peso": "60"
             }
         },
         {
@@ -37,8 +37,8 @@
                 "apellido": "Altamirano",
                 "nombre": "Sandra",
                 "telefono": "(263)6478912",
-                "altura": "157",
-                "peso": "67"
+                "altura": "165",
+                "peso": "62"
             }
         },
         {
@@ -47,8 +47,18 @@
                 "apellido": "Artime",
                 "nombre": "Luis",
                 "telefono": "(264)4558699",
-                "altura": "157",
-                "peso": "67"
+                "altura": "170",
+                "peso": "70"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "apellido": "Jofr\u00e9",
+                "nombre": "Santiago",
+                "telefono": "(264)5028214",
+                "altura": "178",
+                "peso": "78"
             }
         }
     ]
